@@ -11,3 +11,7 @@ Our newest WIP project. more soon
 <hr>
 
 # MORE INFORMATION SOON
+
+
+## Sicherheit
+Solltest du sicherheitsrelevante Meldungen haben, sende eine E-Mail an info@onemods.de anstatt den Issue Tracker zu nutzen.
