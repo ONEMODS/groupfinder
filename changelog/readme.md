@@ -1,4 +1,4 @@
-Changelog Structure:
-[+] = Added feature
-[*] = Fix or change
-[-] = removal of a feature
+Changelog Structure:<br>
+[+] = Added feature<br>
+[*] = Fix or change<br>
+[-] = removal of a feature<br>
